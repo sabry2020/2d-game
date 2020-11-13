@@ -1,0 +1,10 @@
+finish:
+
+Make and apply the Star sound 
+add the star sprite to the game and make it a collectable 
+make a score for collecting the star 
+add an animation for collecting the star 
+
+
+add the enemy 
+add animations to the enemy 
